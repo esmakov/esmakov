@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esmakov, a computer science senior at the University of Rochester!
-- 💞️ I’m looking to collaborate on projects that need a web dev, especially with the MERN stac.
+- 💞️ I’m open to collaborating on projects of any kind, especially in web dev and ML.
 - 📫 Reach me at edwardsmakov@gmail.com or esmakov@u.rochester.edu
 
 <!---
