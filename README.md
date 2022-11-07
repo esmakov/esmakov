@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @esmakov, a Computer Science major and Take 5 Scholar at the University of Rochester.
+- 👋 Hi, I’m @esmakov, a Computer Science student at the University of Rochester.
+- I'm seeking a full-time software engineering role for 2023!
+- 
 - Currently working on full-stack apps with typesafety from back to front.
-- Also seeking intern roles for Fall '22/Spring '23, and full-time roles in 2023.
 - 📫 Contact: edwardsmakov@gmail.com or esmakov@u.rochester.edu
 
 <!---
