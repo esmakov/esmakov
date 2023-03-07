@@ -1,4 +1,4 @@
-# Hi, I'm @esmakov
+# Hi, I'm @esmakov, a full-stack dev
 [![esmakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmakov&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmakov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
