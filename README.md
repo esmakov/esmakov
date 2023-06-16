@@ -1,4 +1,4 @@
-# Hi, I'm @esmakov, a full-stack dev
+# Hi, I'm @esmakov, a web developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmakov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
